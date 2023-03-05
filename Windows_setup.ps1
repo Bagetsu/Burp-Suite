@@ -10,7 +10,7 @@ echo "
 "
 
 # Set Wget Progress to Silent, Becuase it slows down Downloading by +50x
-echo "Setting Wget Progress to Silent, Becuase it slows down Downloading by +50x`n"
+echo "Setting Wget Progress to Silent, Because it slows down Downloading by +50x`n"
 $ProgressPreference = 'SilentlyContinue'
 
 # Check JDK-18 Availability or Download JDK-19
